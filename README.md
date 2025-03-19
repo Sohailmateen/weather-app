@@ -31,12 +31,10 @@ This is a simple weather app that allows users to check current weather conditio
 
 
 ## Screenshots
-![Weather App Screenshot](Screenshot1.png)
-
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="screenshot/screenshot1.png" alt="Weather App Screenshot 1" style="width: 48%;"/>
-    <img src="screenshot/screenshot2.png" alt="Weather App Screenshot 2" style="width: 48%;"/>
+    <img src="screenshot/Screenshot1.png" alt="Weather App Screenshot 1" style="width: 48%;"/>
+    <img src="screenshot/Screenshot2.png" alt="Weather App Screenshot 2" style="width: 48%;"/>
 </div>
 
 
